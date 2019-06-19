@@ -1,0 +1,1 @@
+Min SDK 19, Target SDK 28
